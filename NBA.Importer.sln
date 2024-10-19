@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E4E8D6B1-4977-4DF2-8126-1C3F13524E4C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NBA.Importer.Api", "src\NBA.Importer.Api\NBA.Importer.Api.csproj", "{35B837EE-5A48-494A-A121-2B8C7B1D90AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{32469802-CB3D-4E91-A8B6-57DF545C3D2F}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		Directory.Build.props = Directory.Build.props
+		Directory.Packages.props = Directory.Packages.props
+		NuGet.config = NuGet.config
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBA.Importer.Scheduler", "src\NBA.Importer.Scheduler\NBA.Importer.Scheduler.csproj", "{9914BA0C-B6B9-4277-BA6D-62BCBF5EDE4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBA.Importer.Business", "src\NBA.Importer.Business\NBA.Importer.Business.csproj", "{921A6566-40FE-499C-B55D-7DB3A90F7CC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35B837EE-5A48-494A-A121-2B8C7B1D90AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B837EE-5A48-494A-A121-2B8C7B1D90AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B837EE-5A48-494A-A121-2B8C7B1D90AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B837EE-5A48-494A-A121-2B8C7B1D90AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9914BA0C-B6B9-4277-BA6D-62BCBF5EDE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9914BA0C-B6B9-4277-BA6D-62BCBF5EDE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9914BA0C-B6B9-4277-BA6D-62BCBF5EDE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9914BA0C-B6B9-4277-BA6D-62BCBF5EDE4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{921A6566-40FE-499C-B55D-7DB3A90F7CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921A6566-40FE-499C-B55D-7DB3A90F7CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921A6566-40FE-499C-B55D-7DB3A90F7CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921A6566-40FE-499C-B55D-7DB3A90F7CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{35B837EE-5A48-494A-A121-2B8C7B1D90AE} = {E4E8D6B1-4977-4DF2-8126-1C3F13524E4C}
+		{9914BA0C-B6B9-4277-BA6D-62BCBF5EDE4B} = {E4E8D6B1-4977-4DF2-8126-1C3F13524E4C}
+		{921A6566-40FE-499C-B55D-7DB3A90F7CC0} = {E4E8D6B1-4977-4DF2-8126-1C3F13524E4C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26302FF2-DF0C-4B66-B0ED-D287C6706937}
+	EndGlobalSection
+EndGlobal
