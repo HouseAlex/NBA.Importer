@@ -15,9 +15,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		NuGet.config = NuGet.config
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBA.Importer.Scheduler", "src\NBA.Importer.Scheduler\NBA.Importer.Scheduler.csproj", "{9914BA0C-B6B9-4277-BA6D-62BCBF5EDE4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NBA.Importer.Scheduler", "src\NBA.Importer.Scheduler\NBA.Importer.Scheduler.csproj", "{9914BA0C-B6B9-4277-BA6D-62BCBF5EDE4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBA.Importer.Business", "src\NBA.Importer.Business\NBA.Importer.Business.csproj", "{921A6566-40FE-499C-B55D-7DB3A90F7CC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NBA.Importer.Business", "src\NBA.Importer.Business\NBA.Importer.Business.csproj", "{921A6566-40FE-499C-B55D-7DB3A90F7CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBA.Importer.Data", "src\NBA.Importer.Data\NBA.Importer.Data.csproj", "{80D2DAB3-8D68-4C53-8328-EBD73B7E3F26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +39,10 @@ Global
 		{921A6566-40FE-499C-B55D-7DB3A90F7CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{921A6566-40FE-499C-B55D-7DB3A90F7CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{921A6566-40FE-499C-B55D-7DB3A90F7CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80D2DAB3-8D68-4C53-8328-EBD73B7E3F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D2DAB3-8D68-4C53-8328-EBD73B7E3F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D2DAB3-8D68-4C53-8328-EBD73B7E3F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D2DAB3-8D68-4C53-8328-EBD73B7E3F26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -45,6 +51,7 @@ Global
 		{35B837EE-5A48-494A-A121-2B8C7B1D90AE} = {E4E8D6B1-4977-4DF2-8126-1C3F13524E4C}
 		{9914BA0C-B6B9-4277-BA6D-62BCBF5EDE4B} = {E4E8D6B1-4977-4DF2-8126-1C3F13524E4C}
 		{921A6566-40FE-499C-B55D-7DB3A90F7CC0} = {E4E8D6B1-4977-4DF2-8126-1C3F13524E4C}
+		{80D2DAB3-8D68-4C53-8328-EBD73B7E3F26} = {E4E8D6B1-4977-4DF2-8126-1C3F13524E4C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {26302FF2-DF0C-4B66-B0ED-D287C6706937}

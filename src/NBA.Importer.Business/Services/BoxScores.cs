@@ -11,7 +11,7 @@ public class BoxScores : IBoxScores
         this.textDataReader = textDataReader;
     }
 
-    public void GetDataRaw()
+    public void Get()
     {
         var tempFilePath = "C:\\Users\\Alex\\Desktop\\Code\\NBA.Importer\\resources\\sample.txt";
         var boxScoreLines = textDataReader.GetFileLines(tempFilePath);
@@ -21,6 +21,5 @@ public class BoxScores : IBoxScores
             var headersIndex = boxScoreLines.FindIndex(x =>  x.StartsWith("date", StringComparison.InvariantCultureIgnoreCase)) + 1;
             var boxScoreData = boxScoreLines.Slice(headersIndex, boxScoreLines.Count - headersIndex);
         }
-
     }
 }

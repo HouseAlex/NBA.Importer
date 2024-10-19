@@ -1,0 +1,202 @@
+
+
+INCLUDES GAMES OF FRIDAY, OCTOBER 18, 2024
+
+DATE       TM  OPP NAME                     (POS)  G MIN  FG FGA  FG3 F3A  FT FTA OFF DEF TRB AST  PF  DQ STL  TO BLK PTS
+10/18/2024 BRK TOR Johnson, Cam             (F  )  1  32  11  21    7  14   3   4   0   5   5   4   3   0   0   2   1  32
+10/18/2024 BRK TOR Simmons, Ben             (F  )  1  25   2   2    0   0   0   0   1   7   8   6   3   0   0   3   1   4
+10/18/2024 BRK TOR Wilson, Jalen            (C  )  1  30   4  13    2   7   3   4   0   3   3   5   3   0   0   0   0  13
+10/18/2024 BRK TOR Schroder, Dennis         (G  )  1  35   3  11    1   5   5   6   0   1   1   3   2   0   2   0   0  12
+10/18/2024 BRK TOR Thomas, Cam              (G  )  1  32   3  10    0   4   7   7   1   2   3   3   2   0   1   2   0  13
+10/18/2024 BRK TOR Clowney, Noah            (SUB)  1  21   4  11    0   4   3   4   2   3   5   3   4   0   2   3   0  11
+10/18/2024 BRK TOR Johnson, Keon            (SUB)  1  16   5   9    1   3   0   0   0   4   4   2   2   0   2   2   1  11
+10/18/2024 BRK TOR Martin, Jaylen           (SUB)  1   4   0   0    0   0   0   0   0   1   1   0   0   0   0   0   0   0
+10/18/2024 BRK TOR Martin, Tyrese           (SUB)  1   7   0   2    0   1   0   0   1   0   1   0   4   0   0   1   0   0
+10/18/2024 BRK TOR Milton, Shake            (SUB)  1  10   1   3    0   1   2   2   0   0   0   2   0   0   2   1   0   4
+10/18/2024 BRK TOR Williams, Ziaire         (SUB)  1  27   5   9    2   3   0   0   0   8   8   2   5   0   4   1   2  12
+10/18/2024 CHI CLE LaVine, Zach             (F  )  1  28   7  14    2   7   2   4   1   5   6   3   2   0   1   1   0  18
+10/18/2024 CHI CLE Williams, Patrick        (F  )  1  20   4   8    2   5   0   0   0   6   6   3   0   0   0   0   1  10
+10/18/2024 CHI CLE Vucevic, Nikola          (C  )  1  27   8  16    1   3   1   1   2  10  12   6   2   0   1   3   1  18
+10/18/2024 CHI CLE Dosunmu, Ayo             (G  )  1  28   7  11    5   7   0   2   1   2   3   3   2   0   1   0   0  19
+10/18/2024 CHI CLE White, Coby              (G  )  1  31   5  14    2   8   2   2   1   5   6   8   2   0   2   5   0  14
+10/18/2024 CHI CLE Ball, Lonzo              (SUB)  1  16   4   9    3   7   0   0   0   3   3   3   2   0   0   1   0  11
+10/18/2024 CHI CLE Buzelis, Matas           (SUB)  1  15   3   4    1   1   0   0   0   3   3   0   1   0   0   1   0   7
+10/18/2024 CHI CLE Carter, Jevon            (SUB)  1  14   3   5    1   2   2   2   0   1   1   1   0   0   0   1   0   9
+10/18/2024 CHI CLE Craig, Torrey            (SUB)  1   8   1   3    1   3   0   0   0   0   0   0   1   0   0   1   0   3
+10/18/2024 CHI CLE Duarte, Chris            (SUB)  1  14   1   6    0   5   1   2   0   1   1   3   2   0   1   1   1   3
+10/18/2024 CHI CLE Horton-Tucker, Talen     (SUB)  1  14   3   8    1   3   2   2   0   2   2   0   2   0   0   1   0   9
+10/18/2024 CHI CLE Liddell, E.J.            (SUB)  1   9   1   3    0   1   0   0   2   0   2   0   2   0   0   0   0   2
+10/18/2024 CHI CLE Phillips, Julian         (SUB)  1  16   1   4    0   2   0   0   1   0   1   0   3   0   0   2   1   2
+10/18/2024 CHI CLE Sanogo, Adama            (SUB)  1   9   0   1    0   0   0   0   1   4   5   0   2   0   3   0   1   0
+10/18/2024 CHI CLE Smith, Jalen             (SUB)  1  17   5   9    0   2   4   6   3   6   9   4   4   0   1   1   0  14
+10/18/2024 CLE CHI Mobley, Evan             (F  )  1  35   4  11    1   3   6  12   0  10  10   8   2   0   0   0   3  15
+10/18/2024 CLE CHI Wade, Dean               (F  )  1  26   5  10    4   9   0   0   1   4   5   3   0   0   1   0   1  14
+10/18/2024 CLE CHI Allen, Jarrett           (C  )  1  32  11  16    0   0   3   3   6  10  16   2   2   0   2   1   0  25
+10/18/2024 CLE CHI Garland, Darius          (G  )  1  32   8  15    5  10   2   2   0   2   2   5   1   0   1   3   0  23
+10/18/2024 CLE CHI Mitchell, Donovan        (G  )  1  35   8  21    2   9   4   6   1   3   4   4   2   0   2   3   0  22
+10/18/2024 CLE CHI Bernard, Jules           (SUB)  1   5   1   4    0   2   0   0   0   0   0   0   0   0   0   1   0   2
+10/18/2024 CLE CHI Jerome, Ty               (SUB)  1  12   1   2    1   2   0   0   0   1   1   1   0   0   0   1   0   3
+10/18/2024 CLE CHI LeVert, Caris            (SUB)  1  26   3  10    1   7   2   2   0   0   0   5   2   0   0   1   0   9
+10/18/2024 CLE CHI Merrill, Sam             (SUB)  1  17   2   7    2   7   0   0   0   2   2   2   1   0   0   0   0   6
+10/18/2024 CLE CHI Nance, Pete              (SUB)  1   5   0   0    0   0   0   0   0   2   2   0   3   0   1   1   0   0
+10/18/2024 CLE CHI Niang, Georges           (SUB)  1  13   1   4    1   3   2   2   0   0   0   3   2   0   1   0   0   5
+10/18/2024 CLE CHI Porter, Craig            (SUB)  1   5   0   3    0   1   1   2   1   1   2   0   0   0   0   1   0   1
+10/18/2024 CLE CHI Thor, JT                 (SUB)  1   5   0   0    0   0   4   4   0   2   2   0   0   0   1   0   1   4
+10/18/2024 CLE CHI Travers, Luke            (SUB)  1   5   0   1    0   0   0   0   1   0   1   0   1   0   0   1   0   0
+10/18/2024 CLE CHI Tyson, Jaylon            (SUB)  1  11   2   2    0   0   4   4   1   3   4   0   2   0   0   2   0   8
+10/18/2024 GS  LAL Green, Draymond          (F  )  1  16   0   0    0   0   2   2   0   4   4   5   2   0   0   1   1   2
+10/18/2024 GS  LAL Kuminga, Jonathan        (F  )  1  19   7  11    1   4   2   2   1   3   4   0   0   0   0   0   0  17
+10/18/2024 GS  LAL Jackson-Davis, Trayce    (C  )  1  20   6   9    0   0   0   1   1   0   1   5   2   0   0   1   4  12
+10/18/2024 GS  LAL Melton, De'Anthony       (G  )  1  21   4   4    1   1   0   0   0   1   1   5   2   0   2   2   0   9
+10/18/2024 GS  LAL Wiggins, Andrew          (G  )  1  22   4  10    2   6   3   4   2   1   3   3   1   0   1   2   2  13
+10/18/2024 GS  LAL Anderson, Kyle           (SUB)  1  19   1   3    1   2   0   0   0   2   2   5   1   0   0   0   0   3
+10/18/2024 GS  LAL Beekman, Reece           (SUB)  1   7   1   2    0   0   0   0   0   0   0   1   0   0   1   0   0   2
+10/18/2024 GS  LAL Hield, Buddy             (SUB)  1  15   5   9    4   8   0   0   0   4   4   4   3   0   0   4   0  14
+10/18/2024 GS  LAL Looney, Kevon            (SUB)  1  12   2   2    0   0   2   2   0   2   2   1   0   0   0   0   2   6
+10/18/2024 GS  LAL Moody, Moses             (SUB)  1  18   5   9    0   3   4   4   0   4   4   0   0   0   0   2   0  14
+10/18/2024 GS  LAL Payton, Gary II          (SUB)  1  15   2   2    0   0   0   1   0   2   2   2   1   0   2   0   0   4
+10/18/2024 GS  LAL Podziemski, Brandin      (SUB)  1  21   6  15    2   7   2   2   1   3   4   2   0   0   3   0   0  16
+10/18/2024 GS  LAL Post, Quinten            (SUB)  1   7   3   3    2   2   0   0   0   1   1   1   2   0   0   0   0   8
+10/18/2024 GS  LAL Santos, Gui              (SUB)  1  10   1   3    0   1   2   2   1   1   2   0   0   0   1   0   0   4
+10/18/2024 GS  LAL Spencer, Pat             (SUB)  1  10   2   2    0   0   0   0   0   0   0   4   0   0   2   0   0   4
+10/18/2024 GS  LAL Waters, Lindy            (SUB)  1  10   2   5    0   2   0   0   0   2   2   0   0   0   1   1   0   4
+10/18/2024 LAL GS  James, Bronny            (F  )  1  35   7  17    1   5   2   2   0   4   4   1   4   0   3   2   1  17
+10/18/2024 LAL GS  Reddish, Cam             (F  )  1  25   1  11    1   6   3   4   1   1   2   1   0   0   3   2   0   6
+10/18/2024 LAL GS  Hayes, Jaxson            (C  )  1  21   3   7    0   0   1   2   5   2   7   2   1   0   0   1   0   7
+10/18/2024 LAL GS  Hood-Schifino, Jalen     (G  )  1  31   3  10    0   3   0   0   2   1   3   7   3   0   1   6   0   6
+10/18/2024 LAL GS  Olivari, Quincy          (G  )  1  39   8  16    5   9   1   1   3   4   7   2   4   0   0   7   0  22
+10/18/2024 LAL GS  Castleton, Colin         (SUB)  1  27   2   3    0   0   0   0   1   4   5   1   4   0   0   5   1   4
+10/18/2024 LAL GS  Lewis, Maxwell           (SUB)  1  34   2  10    0   3   2   2   1   5   6   0   1   0   1   1   0   6
+10/18/2024 LAL GS  Traore, Armel            (SUB)  1  28   2   8    0   3   2   4   2   5   7   1   2   0   1   1   0   6
+10/18/2024 MEM MIA Aldama, Santi            (F  )  1  23   6  11    5   7   2   2   1   6   7   2   0   0   0   0   0  19
+10/18/2024 MEM MIA Smart, Marcus            (F  )  1  23   2   4    1   2   0   0   0   1   1   5   4   0   1   2   0   5
+10/18/2024 MEM MIA Edey, Zach               (C  )  1  20   2   7    0   0   3   4   2   5   7   0   2   0   0   4   0   7
+10/18/2024 MEM MIA Bane, Desmond            (G  )  1  26   8  14    2   6   1   1   1   3   4   7   1   0   1   3   2  19
+10/18/2024 MEM MIA Morant, Ja               (G  )  1  25   7  12    0   2   3   4   2   6   8   6   3   0   2   2   1  17
+10/18/2024 MEM MIA Bacot, Armando           (SUB)  1  11   1   4    0   2   2   2   0   2   2   0   2   0   0   1   1   4
+10/18/2024 MEM MIA Clarke, Brandon          (SUB)  1  17   4   4    1   1   0   0   1   1   2   1   4   0   0   1   1   9
+10/18/2024 MEM MIA Kawamura, Yuki           (SUB)  1   8   0   1    0   1   0   0   0   0   0   2   0   0   0   2   0   0
+10/18/2024 MEM MIA Konchar, John            (SUB)  1  14   0   3    0   3   2   2   0   0   0   2   0   0   1   1   0   2
+10/18/2024 MEM MIA LaRavia, Jake            (SUB)  1  19   1   5    0   2   0   0   2   2   4   1   2   0   2   2   0   2
+10/18/2024 MEM MIA Norris, Miles            (SUB)  1   6   2   2    2   2   0   0   1   1   2   1   0   0   1   1   0   6
+10/18/2024 MEM MIA Oni, Miye                (SUB)  1   6   0   2    0   2   0   0   0   1   1   0   1   0   0   1   0   0
+10/18/2024 MEM MIA Pereira, Maozinha        (SUB)  1   6   1   2    0   1   0   0   1   2   3   0   0   0   1   1   0   2
+10/18/2024 MEM MIA Pippen, Scotty Jr.       (SUB)  1  15   1   2    0   0   4   4   0   2   2   0   1   0   1   2   0   6
+10/18/2024 MEM MIA Wells, Jaylen            (SUB)  1  20   3   6    2   3   3   4   1   2   3   1   4   0   0   0   0  11
+10/18/2024 MIA MEM Highsmith, Haywood       (F  )  1  15   3   6    3   5   1   2   2   1   3   0   2   0   2   1   0  10
+10/18/2024 MIA MEM Jovic, Nikola            (F  )  1  14   4   7    1   3   2   2   0   1   1   4   0   0   0   2   0  11
+10/18/2024 MIA MEM Bryant, Thomas           (C  )  1  15   1   4    0   3   1   1   1   1   2   2   0   0   2   2   0   3
+10/18/2024 MIA MEM Larsson, Pelle           (G  )  1  32   5  17    2   5   2   2   2   3   5   4   1   0   2   1   0  14
+10/18/2024 MIA MEM Smith, Dru               (G  )  1  15   3   4    2   3   2   2   0   4   4   1   2   0   0   2   0  10
+10/18/2024 MIA MEM Christopher, Josh        (SUB)  1  22   6  11    2   4   3   3   1   2   3   4   2   0   4   3   0  17
+10/18/2024 MIA MEM Johnson, Keshad          (SUB)  1  26   4   7    0   3   0   1   2   2   4   1   0   0   2   1   0   8
+10/18/2024 MIA MEM Little, Nassir           (SUB)  1  32   4   7    4   5   3   4   0   4   4   3   2   0   0   3   0  15
+10/18/2024 MIA MEM Pullin, Zyon             (SUB)  1  18   2   3    1   1   1   2   0   4   4   4   1   0   1   1   0   6
+10/18/2024 MIA MEM Stevens, Isaiah          (SUB)  1  18   1   4    0   0   0   0   1   1   2   5   1   0   1   1   0   2
+10/18/2024 MIA MEM Ware, Kel'el             (SUB)  1  28   7  17    1   4   1   2   1   6   7   1   3   0   2   0   2  16
+10/18/2024 MIA MEM Washington, Warren       (SUB)  1   5   1   2    0   0   0   2   2   0   2   0   1   0   0   0   0   2
+10/18/2024 NY  WAS Anunoby, OG              (F  )  1  28   4   7    2   4   4   6   0   4   4   3   2   0   3   2   2  14
+10/18/2024 NY  WAS Hart, Josh               (F  )  1  25   1   2    0   1   0   0   0   5   5   3   2   0   0   2   1   2
+10/18/2024 NY  WAS Towns, Karl-Anthony      (C  )  1  30   7  16    0   5   8  10   3   9  12   4   1   0   0   0   1  22
+10/18/2024 NY  WAS Bridges, Mikal           (G  )  1  32   2  12    0  10   4   4   2   1   3   3   3   0   1   2   0   8
+10/18/2024 NY  WAS Brunson, Jalen           (G  )  1  28  10  15    2   4   5   5   0   1   1   5   1   0   0   4   0  27
+10/18/2024 NY  WAS Achiuwa, Precious        (SUB)  1  15   2   4    0   0   2   2   2   2   4   0   1   0   1   0   1   6
+10/18/2024 NY  WAS Dadiet, Pacome           (SUB)  1  17   4   7    2   3   0   0   0   3   3   0   1   0   0   0   0  10
+10/18/2024 NY  WAS Hukporti, Ariel          (SUB)  1   5   0   1    0   0   1   2   0   2   2   0   1   0   0   0   1   1
+10/18/2024 NY  WAS Kolek, Tyler             (SUB)  1  17   3   5    1   2   6   6   0   1   1   2   1   0   0   4   0  13
+10/18/2024 NY  WAS Okeke, Chuma             (SUB)  1   4   0   0    0   0   0   0   0   0   0   0   0   0   0   0   0   0
+10/18/2024 NY  WAS Payne, Cameron           (SUB)  1  20   5  12    1   6   1   3   0   0   0   1   3   0   2   1   0  12
+10/18/2024 NY  WAS Sims, Jericho            (SUB)  1  11   0   0    0   0   0   0   0   2   2   1   1   0   0   0   0   0
+10/18/2024 NY  WAS Warren, T.J.             (SUB)  1   7   1   2    0   1   0   0   1   0   1   0   0   0   0   0   0   2
+10/18/2024 ORL PHI Banchero, Paolo          (F  )  1  24   8  13    1   2   4   5   0   6   6   3   2   0   2   2   0  21
+10/18/2024 ORL PHI Wagner, Franz            (F  )  1  24   3  10    0   3   0   0   1   0   1   1   3   0   2   1   0   6
+10/18/2024 ORL PHI Carter, Wendell Jr.      (C  )  1  21   5   8    0   3   0   0   1   6   7   1   0   0   0   0   1  10
+10/18/2024 ORL PHI Caldwell-Pope, Kentavious(G  )  1  16   1   4    1   4   0   0   1   1   2   3   1   0   1   2   0   3
+10/18/2024 ORL PHI Suggs, Jalen             (G  )  1  24   3   8    0   4   6   7   1   3   4   7   3   0   4   2   1  12
+10/18/2024 ORL PHI Anthony, Cole            (SUB)  1   8   1   3    1   2   2   2   0   0   0   1   1   0   0   1   0   5
+10/18/2024 ORL PHI Bitadze, Goga            (SUB)  1  11   3   4    0   0   0   2   1   6   7   0   0   0   0   0   1   6
+10/18/2024 ORL PHI Black, Anthony           (SUB)  1  18   3   5    2   3   0   0   0   2   2   8   1   0   0   4   0   8
+10/18/2024 ORL PHI Culver, Jarrett          (SUB)  1   6   1   3    0   0   0   0   2   1   3   0   0   0   0   0   1   2
+10/18/2024 ORL PHI Harris, Gary             (SUB)  1  15   3   4    3   3   0   0   0   0   0   1   2   0   0   0   0   9
+10/18/2024 ORL PHI Houstan, Caleb           (SUB)  1   9   0   2    0   2   0   0   0   0   0   0   1   0   0   0   0   0
+10/18/2024 ORL PHI Howard, Jett             (SUB)  1  17   3   6    3   6   2   2   0   0   0   2   3   0   1   1   0  11
+10/18/2024 ORL PHI Isaac, Jonathan          (SUB)  1   7   2   3    1   1   0   0   0   0   0   0   1   0   1   0   2   5
+10/18/2024 ORL PHI McClung, Mac             (SUB)  1   3   1   1    0   0   0   0   0   0   0   0   0   0   1   0   2   2
+10/18/2024 ORL PHI Morales, Alex            (SUB)  1   4   1   1    0   0   0   0   0   2   2   0   0   0   0   0   1   2
+10/18/2024 ORL PHI Slawson, Jalen           (SUB)  1   6   1   2    0   0   2   2   0   1   1   0   2   0   0   0   0   4
+10/18/2024 ORL PHI Thompson, Ethan          (SUB)  1   6   1   4    0   2   0   0   0   2   2   2   0   0   0   1   0   2
+10/18/2024 ORL PHI Wagner, Moritz           (SUB)  1  10   0   0    0   0   0   0   0   2   2   2   0   0   0   1   0   0
+10/18/2024 ORL PHI da Silva, Tristan        (SUB)  1  11   2   5    0   2   2   2   1   3   4   1   3   0   0   1   1   6
+10/18/2024 PHI ORL Martin, KJ               (F  )  1  24   4   7    1   1   0   2   2   1   3   0   1   0   2   2   1   9
+10/18/2024 PHI ORL Oubre, Kelly Jr.         (F  )  1  23   6  10    0   3   5   6   1   3   4   2   2   0   1   2   0  17
+10/18/2024 PHI ORL Drummond, Andre          (C  )  1  26   6   9    0   0   0   1   5  15  20   1   2   0   3   5   0  12
+10/18/2024 PHI ORL Gordon, Eric             (G  )  1  18   1   5    1   3   0   0   0   0   0   0   2   0   0   0   0   3
+10/18/2024 PHI ORL Maxey, Tyrese            (G  )  1   5   0   1    0   0   0   0   0   0   0   1   1   0   0   0   0   0
+10/18/2024 PHI ORL Bona, Adem               (SUB)  1   9   2   3    0   0   0   0   1   1   2   0   1   0   0   0   0   4
+10/18/2024 PHI ORL Council, Ricky           (SUB)  1  21   1   7    0   3  11  12   1   0   1   0   3   0   0   1   0  13
+10/18/2024 PHI ORL Dowtin, Jeff Jr.         (SUB)  1  16   2   8    1   4   0   0   1   1   2   3   1   0   0   1   0   5
+10/18/2024 PHI ORL Edwards, Justin          (SUB)  1  12   1   2    0   1   0   0   0   1   1   0   1   0   1   2   0   2
+10/18/2024 PHI ORL Jackson, Reggie          (SUB)  1  14   3   5    1   2   0   0   1   1   2   3   0   0   0   0   0   7
+10/18/2024 PHI ORL Lowry, Kyle              (SUB)  1  20   0   6    0   3   2   3   1   2   3   2   1   0   1   1   0   2
+10/18/2024 PHI ORL Martin, Caleb            (SUB)  1  24   3  10    2   4   2   2   1   3   4   2   1   0   0   3   1  10
+10/18/2024 PHI ORL Quinones, Lester         (SUB)  1  11   1   6    1   4   3   4   1   2   3   2   0   0   1   0   0   6
+10/18/2024 PHI ORL Yabusele, Guerschon      (SUB)  1  17   2   7    1   4   4   4   2   4   6   2   1   0   1   1   1   9
+10/18/2024 POR UTA Avdija, Deni             (F  )  1  21   3   9    1   3   3   3   1   5   6   7   2   0   2   2   1  10
+10/18/2024 POR UTA Grant, Jerami            (F  )  1  23   7  11    3   4   1   1   0   3   3   7   2   0   3   0   3  18
+10/18/2024 POR UTA Clingan, Donovan         (C  )  1  24   7  12    0   1   0   0  10  10  20   4   4   0   0   2   4  14
+10/18/2024 POR UTA Camara, Toumani          (G  )  1  22   2   9    0   2   4   4   2   3   5   1   1   0   4   3   1   8
+10/18/2024 POR UTA Simons, Anfernee         (G  )  1  21   4  10    1   5   2   2   0   2   2   2   0   0   0   1   0  11
+10/18/2024 POR UTA Banton, Dalano           (SUB)  1  19   2   3    0   1   0   0   1   1   2   6   0   0   1   0   0   4
+10/18/2024 POR UTA Henderson, Scoot         (SUB)  1  24   2  13    0   5   2   2   0   3   3   2   4   0   2   1   0   6
+10/18/2024 POR UTA McGowens, Bryce          (SUB)  1   4   0   2    0   1   2   2   0   0   0   0   0   0   0   0   0   2
+10/18/2024 POR UTA Minaya, Justin           (SUB)  1  12   2   4    1   2   0   0   1   1   2   0   2   0   0   0   0   5
+10/18/2024 POR UTA Moore, Taze              (SUB)  1   8   1   3    0   0   0   0   2   0   2   1   1   0   0   1   0   2
+10/18/2024 POR UTA Murray, Kris             (SUB)  1  16   3   7    1   3   3   3   2   0   2   0   0   0   1   0   1  10
+10/18/2024 POR UTA Reath, Duop              (SUB)  1  24   5  11    4   8   0   2   1   4   5   2   2   0   3   1   0  14
+10/18/2024 POR UTA Rupert, Rayan            (SUB)  1  23   9  14    1   5   1   1   0   4   4   2   3   0   0   2   0  20
+10/18/2024 TOR BRK Agbaji, Ochai            (F  )  1  23   6  11    1   6   3   3   0   6   6   2   3   0   1   2   0  16
+10/18/2024 TOR BRK Barnes, Scottie          (F  )  1  26   7  12    3   6   4   4   1   5   6   3   1   0   2   0   1  21
+10/18/2024 TOR BRK Poeltl, Jakob            (C  )  1  25   7  11    0   0   0   0   2   6   8   4   2   0   1   2   2  14
+10/18/2024 TOR BRK Dick, Gradey             (G  )  1  27   5  14    2   8   0   0   2   4   6   1   4   0   0   0   2  12
+10/18/2024 TOR BRK Quickley, Immanuel       (G  )  1  24   4   7    1   2   0   1   0   3   3  10   3   0   0   3   0   9
+10/18/2024 TOR BRK Battle, Jamison          (SUB)  1   9   1   2    1   2   0   0   0   1   1   2   0   0   0   0   0   3
+10/18/2024 TOR BRK Boucher, Chris           (SUB)  1  11   3   8    2   4   2   2   0   1   1   1   1   0   1   0   0  10
+10/18/2024 TOR BRK Carton, DJ               (SUB)  1   9   1   2    0   0   1   2   0   0   0   1   2   0   2   1   0   3
+10/18/2024 TOR BRK Chomche, Ulrich          (SUB)  1   3   1   1    0   0   0   0   0   2   2   0   0   0   0   1   1   2
+10/18/2024 TOR BRK Fernando, Bruno          (SUB)  1  15   3   3    0   0   1   2   0   4   4   0   4   0   0   1   1   7
+10/18/2024 TOR BRK Mitchell, Davion         (SUB)  1  19   0   3    0   2   1   4   1   1   2   4   1   0   1   1   0   1
+10/18/2024 TOR BRK Mogbo, Jonathan          (SUB)  1  13   0   3    0   1   1   2   1   4   5   2   2   0   1   2   0   1
+10/18/2024 TOR BRK Ramsey, Jahmi'us         (SUB)  1   9   2   4    0   1   4   5   0   0   0   0   2   0   0   2   0   8
+10/18/2024 TOR BRK Shead, Jamal             (SUB)  1  19   4   7    1   2   0   0   0   0   0   4   1   0   0   1   0   9
+10/18/2024 TOR BRK Temple, Garrett          (SUB)  1   8   0   2    0   2   0   0   0   1   1   0   0   0   0   2   0   0
+10/18/2024 UTA POR Hendricks, Taylor        (F  )  1  19   0   3    0   3   1   2   0   0   0   0   2   0   0   1   2   1
+10/18/2024 UTA POR Markkanen, Lauri         (F  )  1  17   1   9    1   5   2   2   1   3   4   1   1   0   0   2   1   5
+10/18/2024 UTA POR Kessler, Walker          (C  )  1  12   1   2    0   0   0   2   2   4   6   2   1   0   0   4   1   2
+10/18/2024 UTA POR George, Keyonte          (G  )  1  14   2   6    2   4   0   0   0   0   0   1   2   0   1   2   0   6
+10/18/2024 UTA POR Sexton, Collin           (G  )  1  17   3   8    0   1   0   0   0   1   1   1   0   0   0   3   1   6
+10/18/2024 UTA POR Clarkson, Jordan         (SUB)  1  12   2   5    0   1   2   4   0   3   3   0   0   0   0   0   1   6
+10/18/2024 UTA POR Collins, John            (SUB)  1  12   3   6    1   3   0   0   2   3   5   0   1   0   1   2   1   7
+10/18/2024 UTA POR Eubanks, Drew            (SUB)  1  16   3   4    0   0   3   4   1   4   5   0   6   1   0   0   1   9
+10/18/2024 UTA POR Filipowski, Klye         (SUB)  1  18   1   4    0   2   2   2   1   4   5   4   0   0   0   2   1   4
+10/18/2024 UTA POR Juzang, Johnny           (SUB)  1  19   2   9    1   7   3   3   3   0   3   3   0   0   1   1   0   8
+10/18/2024 UTA POR Mills, Patty             (SUB)  1  10   0   1    0   1   0   0   0   1   1   0   0   0   0   1   0   0
+10/18/2024 UTA POR Mykhailiuk, Svi          (SUB)  1  14   3   6    1   3   2   2   1   2   3   1   0   0   1   0   0   9
+10/18/2024 UTA POR Potter, Micah            (SUB)  1  10   2   3    1   2   0   0   0   2   2   1   0   0   0   1   0   5
+10/18/2024 UTA POR Preston, Jason           (SUB)  1   5   0   1    0   1   0   0   0   2   2   0   1   0   0   2   0   0
+10/18/2024 UTA POR Sensabaugh, Brice        (SUB)  1  24   4   7    2   4   3   5   0   2   2   1   1   0   0   1   0  13
+10/18/2024 UTA POR Tshiebwe, Oscar          (SUB)  1   3   0   0    0   0   0   0   1   1   2   0   1   0   0   0   0   0
+10/18/2024 UTA POR Williams, Cody           (SUB)  1  17   1   7    0   5   3   4   0   0   0   1   2   0   1   0   1   5
+10/18/2024 WAS NY  George, Kyshawn          (F  )  1  22   3   6    2   5   0   0   0   4   4   5   1   0   0   1   0   8
+10/18/2024 WAS NY  Kuzma, Kyle              (F  )  1  17   4  11    1   4   3   4   0   3   3   3   0   0   1   1   0  12
+10/18/2024 WAS NY  Valanciunas, Jonas       (C  )  1  16   3   3    0   0   1   2   1   3   4   1   2   0   0   2   0   7
+10/18/2024 WAS NY  Carrington, Carlton      (G  )  1  22   3   6    1   3   0   0   0   3   3   1   3   0   0   2   0   7
+10/18/2024 WAS NY  Poole, Jordan            (G  )  1  18   6  10    3   5   1   1   0   1   1   5   2   0   0   1   0  16
+10/18/2024 WAS NY  Bagley, Marvin III       (SUB)  1  18   3   6    1   1   0   0   1   6   7   4   5   0   0   3   1   7
+10/18/2024 WAS NY  Baldwin, Patrick Jr.     (SUB)  1  17   3   7    2   6   0   2   0   2   2   0   2   0   2   1   0   8
+10/18/2024 WAS NY  Butler, Jared            (SUB)  1  23   6  11    1   2   1   2   0   0   0   5   3   0   1   2   1  14
+10/18/2024 WAS NY  Champagnie, Justin       (SUB)  1  18   5   7    0   2   1   1   0   2   2   0   1   0   0   1   0  11
+10/18/2024 WAS NY  Davis, Johnny            (SUB)  1  27   5   8    0   1   4   4   0   2   2   5   4   0   3   1   0  14
+10/18/2024 WAS NY  Funk, Taylor             (SUB)  1  14   3   7    3   7   0   0   2   3   5   2   1   0   0   1   0   9
+10/18/2024 WAS NY  Gill, Anthony            (SUB)  1  14   2   3    1   1   0   0   0   0   0   0   0   0   0   0   0   5
+10/18/2024 WAS NY  Holmes, Richaun          (SUB)  1   6   0   1    0   0   0   0   0   1   1   1   0   0   0   0   0   0
+10/18/2024 WAS NY  Vukcevic, Tristan        (SUB)  1   8   0   2    0   1   0   0   0   2   2   0   2   0   0   0   0   0

@@ -2,5 +2,5 @@ namespace NBA.Importer.Business.Services.Interfaces;
 
 public interface IBoxScores
 {
-    void GetDataRaw();
+    void Get();
 }
