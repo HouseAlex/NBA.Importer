@@ -21,6 +21,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NBA.Importer.Business", "sr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBA.Importer.Data", "src\NBA.Importer.Data\NBA.Importer.Data.csproj", "{80D2DAB3-8D68-4C53-8328-EBD73B7E3F26}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tools", "tools", "{4D99D97A-428A-4555-9B87-A4EACC691667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBA.Importer.Build", "tools\NBA.Importer.Build\NBA.Importer.Build.csproj", "{8ED8E848-A498-4E57-BFA5-E77EB2FF485B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +47,10 @@ Global
 		{80D2DAB3-8D68-4C53-8328-EBD73B7E3F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80D2DAB3-8D68-4C53-8328-EBD73B7E3F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80D2DAB3-8D68-4C53-8328-EBD73B7E3F26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ED8E848-A498-4E57-BFA5-E77EB2FF485B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED8E848-A498-4E57-BFA5-E77EB2FF485B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED8E848-A498-4E57-BFA5-E77EB2FF485B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED8E848-A498-4E57-BFA5-E77EB2FF485B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -52,6 +60,7 @@ Global
 		{9914BA0C-B6B9-4277-BA6D-62BCBF5EDE4B} = {E4E8D6B1-4977-4DF2-8126-1C3F13524E4C}
 		{921A6566-40FE-499C-B55D-7DB3A90F7CC0} = {E4E8D6B1-4977-4DF2-8126-1C3F13524E4C}
 		{80D2DAB3-8D68-4C53-8328-EBD73B7E3F26} = {E4E8D6B1-4977-4DF2-8126-1C3F13524E4C}
+		{8ED8E848-A498-4E57-BFA5-E77EB2FF485B} = {4D99D97A-428A-4555-9B87-A4EACC691667}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {26302FF2-DF0C-4B66-B0ED-D287C6706937}
